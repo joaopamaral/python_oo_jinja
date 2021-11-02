@@ -1,4 +1,4 @@
-# Python Object-Oriented
+# Training Python Object-Oriented
 
 ## Schedule
 

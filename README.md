@@ -2,15 +2,15 @@
 
 ## Schedule
 
-1. Week 1
+1. Day 1
    * Class and object
    * Basic Concepts
    * Encapsulating
-2. Week 2
+2. Day 2
     * Inheritance
-    * Polimorfism
-3. Week 3
+    * Polymorphism
+3. Day 3
     * Abstraction
     * Using all the concepts with jinja
-4. Week 4
+4. Day 4
    * Questions/Debug

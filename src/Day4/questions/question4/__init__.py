@@ -1,0 +1,1 @@
+"""Ingest all data and create the objects for each class"""

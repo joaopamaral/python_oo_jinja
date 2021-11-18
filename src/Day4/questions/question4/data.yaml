@@ -1,0 +1,8 @@
+terraform:
+  project_name: projeto
+certificate:
+  e_mail: email
+aws:
+  instance_type: m5.xlarge
+  root_block_size: 40
+  region: "us-east-1"

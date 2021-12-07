@@ -1,0 +1,6 @@
+{% for infra in infras -%}
+    {% if infra.cloud == 'gcp' %}
+        ## GCP ##
+    {% endif %}
+    {{ infra.name }} - {{ infra.cloud }}
+{% endfor %}

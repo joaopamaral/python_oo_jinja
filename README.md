@@ -16,3 +16,7 @@
    * Questions/Debug
 5. Day 5
    * Unit tests
+6. Day 6
+   * Dunder/Magic methods
+7. Day 7
+   * Flask
